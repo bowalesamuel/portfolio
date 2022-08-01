@@ -16,7 +16,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hello!",
+  title: "Hi!",
   sub: "Samuel Bowale",
   logo_name: "Samuel Bowale",
   resumeLink: "assets/samuel_bowale_cv.html",
